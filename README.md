@@ -1,7 +1,5 @@
 # System Design Interview
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nickolashkraus/system-design-interview/blob/master/LICENSE)
-
 Notes from System Design Interview
 
 >The system design interview is the most difficult to tackle among all the technical interviews. The questions require the interviewee to design an architecture for a software system, which could be a news feed, Google search, chat system, etc. These questions are intimidating, and there is no certain pattern to follow. The questions are usually broad in scope and vague.
